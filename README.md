@@ -1,4 +1,7 @@
 hello-world
 ===========
 
-initialization project
+Hi Humans!
+
+I like Node.js and Coffescript (that's what I'm made of!).
+
